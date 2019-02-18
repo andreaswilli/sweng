@@ -18,7 +18,7 @@ public class Rechner {
     System.out.println("Sicherheitsabstand 2: " + sB);
 
     // d)
-    double streckeRelativ = fzA + vA / 2 + fzB + vB / 2;
+    double streckeRelativ = fzA + sA + fzB + sB;
     System.out.println("Relative Strecke: " + streckeRelativ + " Meter");
 
     // e)
