@@ -1,1 +1,1 @@
-web: java -jar bin/MensaVoter.jar
+web: java -jar bin/MensaVoter-1.0-SNAPSHOT.jar
